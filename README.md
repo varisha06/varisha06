@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm syeda varisha mahi 👋</h1>
 
 🎓 M.Tech in Artificial Intelligence & Data Science  
 💻 Aspiring Data Scientist | Open to Work (WFH preferred)  
