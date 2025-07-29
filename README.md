@@ -43,5 +43,5 @@ I’m building my skills in predictive analytics, machine learning, and Python-b
 ---
 
 ### 📬 Let's Connect
-📧 Email: your.email@example.com  
-🌐 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+📧 Email: svmahi06@gmail.com  
+🌐 LinkedIn:https://www.linkedin.com/in/syeda-varisha-45967b253
