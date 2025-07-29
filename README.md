@@ -1,16 +1,47 @@
-## Hi there 👋
 
-<!--
-**varisha06/varisha06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
 
-Here are some ideas to get you started:
+🎓 M.Tech in Artificial Intelligence & Data Science  
+💻 Aspiring Data Scientist | Open to Work (WFH preferred)  
+📍 India | 🌐 Remote Opportunities Welcome  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+I'm a passionate data science enthusiast currently pursuing my M.Tech in AI & DS.  
+I’ve worked on healthcare-focused and customer-centric machine learning projects.  
+I’m building my skills in predictive analytics, machine learning, and Python-based data science stacks.
+
+---
+
+### 🔧 Tech Stack
+- 📊 Python, Pandas, NumPy, Matplotlib, Seaborn
+- 🤖 Scikit-learn, Logistic Regression, Random Forest
+- 🧹 Data Cleaning, Feature Engineering
+- 📁 Git, GitHub, Jupyter, VS Code, PyCharm
+
+---
+
+### 🧠 Projects
+
+🔬 [PCOS Prediction Model](https://github.com/yourusername/PCOS-Prediction)  
+📈 Predicting PCOS in women using clinical features and ML  
+⭐ Logistic Regression | EDA | Heatmap | Accuracy: 88%
+
+📉 [Customer Churn Prediction](https://github.com/yourusername/Churn-Prediction)  
+🔍 Analyze telecom data to predict customer churn  
+⭐ Random Forest | Correlation | Accuracy: 100% (tuned)
+
+---
+
+### 🧭 Goals
+- 📌 Secure a full-time **remote/WFH job** in Data Science or ML  
+- 📚 Continue learning and building impactful projects  
+- 🤝 Contribute to open-source healthcare & AI projects
+
+---
+
+### 📬 Let's Connect
+📧 Email: your.email@example.com  
+🌐 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
